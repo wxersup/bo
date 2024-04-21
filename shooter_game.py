@@ -5,7 +5,7 @@ win_1 = 700
 win_2 = 500
 
 window = display.set_mode((win_1, win_2))
-display.set_caption("бо")
+display.set_caption("криписскалкрутышка")
 background = transform.scale(image.load('galaxy.jpg'), (win_1, win_2))
 clock = time.Clock()
 FPS = 40
